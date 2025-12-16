@@ -12,5 +12,5 @@ This notebook demonstrates how to use machine learning techniques, specifically 
 
 # Included Files
 - industrial_sensors.csv → dataset containing sensor readings (Timestamp, Temperature, Vibration, Pressure, Flow Rate, Efficiency)
-- anomaly_detection.ipynb → Jupyter Notebook implementing the anomaly detection pipeline
+- ml_industrial_sensors_anomaly_detection.ipynb → Jupyter Notebook implementing the anomaly detection pipeline
 - industrial_sensors_anomalies_processed.csv → set of processed and treated data
